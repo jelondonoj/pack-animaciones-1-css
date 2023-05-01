@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Animaciones con CSS
+# Animaciones de carga con CSS
 
 Este repositorio contiene una variedad de animaciones realizadas con CSS que puedes utilizar para mejorar la apariencia y la interactividad de tus proyectos web. Cada animación ha sido detalladamente documentada para que puedas comprender cómo funciona y cómo puedes personalizarla.
 
