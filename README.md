@@ -12,11 +12,11 @@ Para utilizar estas animaciones en tu sitio web, simplemente debes copiar y pega
 
 A continuación, se muestra una lista de las animaciones disponibles en este repositorio:
 
-- Animación 1: /
-- Animación 2: /
-- Animación 3: /
-- Animación 4: /
-- Animación 5: /
+- Animación 1: Animación de carga de olas escalonadas (Demo: https://demos-github-jl.000webhostapp.com/Animaciones_CSS/Carga-1/Carga_de_olas_escalonadas.html)
+- Animación 2: Animación de carga de ADN (Demo: https://demos-github-jl.000webhostapp.com/Animaciones_CSS/Carga-1/Carga_de_ADN.html)
+- Animación 3: Animación de carga de introducción (Demo: https://demos-github-jl.000webhostapp.com/Animaciones_CSS/Carga-1/Carga_de_introducción.html)
+- Animación 4: Animación de carga de texto giratorio (Demo: https://demos-github-jl.000webhostapp.com/Animaciones_CSS/Carga-1/Carga_de_texto_giratorio.html)
+- Animación 5: Animación de carga con pantalla borrosa (Demo: https://demos-github-jl.000webhostapp.com/Animaciones_CSS/Carga-1/Carga_con_pantalla_borrosa.html)
 
 ## Contribuciones
 
